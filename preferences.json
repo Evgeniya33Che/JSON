@@ -1,6 +1,7 @@
-{favorite movie_Batman"[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D"favorite movie_Batman",
-"TV series_Witcher",
-"food_fried potatos",
-"time of year_spring",
-"I want to go to the USA"}
-
+{
+"favorite movie":"Batman",
+"tv series":"Witcher",
+"food_fried":"potato",
+"time of year":"spring",
+"travel":"USA"
+}
