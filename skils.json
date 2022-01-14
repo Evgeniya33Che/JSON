@@ -1,10 +1,14 @@
-
-[A{"SDLC" "STLC" "SQL",
-"JSON" "XML",
+{
+"skils":[
+"SQL",
+"JSON",
+"XML",
 "API",
 "Postman",
 "VPN",
 "Dev Tools",
 "Linux",
-"Piton"}
+"Piton"
+]
+}
 
