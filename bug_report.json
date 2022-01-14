@@ -1,10 +1,9 @@
-"User" :
-{"first_login": false,
- "id": 123,
- "email": "user+city@user.com",
- "first_name": "user",
- "last_name":"city"}
-
-{"Expected attributes:location name,location id"} 
-
- 
+{
+"first_login":false,
+"id":123,
+"email":"user+city@user.com",
+"first_name":"user",
+"last_name":"city",
+"bug":"location name",
+"bug":"location id"
+}
